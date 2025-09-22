@@ -1,12 +1,14 @@
-# Simon Correa - AI Enthusiast & Protein Whisperer
+# Simon Correa - Curiosity Didn't Kill The Cat
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&width=435&lines=Bioinformatics+Expert;Protein+Designer;AI+%26+ML+Enthusiast;Team+Leader;CTO+%26+Innovator)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./public/CuriosityDidntKillTheCat_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./public/CuriosityDidntKillTheCat_black.png">
+  <img alt="Curiosity Didn't Kill The Cat" src="./public/CuriosityDidntKillTheCat_black.png" width="400">
+</picture>
 
 ## 👨‍🔬 About Me
+
+_"If I have seen further, it is by standing on the shoulders of giants"_
 
 I'm a **Compbio Wizard** 🧙‍♂️ with a few years of experience turning biological mysteries into computational solutions. Currently serving as **CTO** at Chask, I specialize in:
 
@@ -79,6 +81,6 @@ I'm a **Compbio Wizard** 🧙‍♂️ with a few years of experience turning bi
 
 <div align="center">
 
-_"If I have seen further, it is by standing on the shoulders of giants"_
+<img src="./public/water.png" alt="Water" width="500">
 
 </div>
