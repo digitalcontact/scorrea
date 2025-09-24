@@ -6,6 +6,8 @@
   <img alt="Curiosity Didn't Kill The Cat" src="./public/CuriosityDidntKillTheCat_black.png" width="400">
 </picture>
 
+[![Interesting projects](https://img.shields.io/badge/Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](./projects.md)
+
 ## 👨‍🔬 About Me
 
 _"If I have seen further, it is by standing on the shoulders of giants"_
@@ -61,6 +63,12 @@ I'm a **Compbio Wizard** 🧙‍♂️ with a few years of experience turning bi
 - 📝 **3 US Patents** in protein prediction and antifungal compositions
 - 🏅 **Hackathon Winner** - Self-healing Biomimetic Polymers
 
+## 🏅 Notable Achievements & Participations
+
+- 🚀 **Startup Chile Big 10 2025** - Selected startup with Chask for [Startup Chile's prestigious Big 10 program](https://startupchile.org/blog/estas-son-las-startups-seleccionadas-para-big-10/)
+- 💡 **Platanus Hackathon 2024** - Built **constellation.bio**, a social network platform mockup for creating and sharing scientific results with AI-powered validation to help researchers collaborate and share experimental findings
+- 🔬 **Hackathon Winner** - Self-healing Biomimetic Polymers (already listed in Academic Achievements)
+
 ## 🗣️ Languages I Speak
 
 - 🇪🇸 **Spanish** - Native
@@ -74,6 +82,7 @@ I'm a **Compbio Wizard** 🧙‍♂️ with a few years of experience turning bi
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scorrea)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aHm138QAAAAJ&hl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonc.martelli@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](./projects.md)
 
 </div>
 
